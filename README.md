@@ -9,4 +9,4 @@ Implementation of a text clustering algorithm using Kmeans clustering in order t
 1. Anaconda distribution of python 2.7
 2. pip install flask
 3. Some dependencies from nltk (nltk.download() from python console)
-4. pip install flassger
+4. pip install flasgger
