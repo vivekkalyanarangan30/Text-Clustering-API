@@ -1,0 +1,7 @@
+FROM continuumio/anaconda:4.4.0
+COPY python/ /usr/local/python/
+EXPOSE 8180
+WORKDIR /usr/local/python/
+RUN pip install -r requirements.txt
+RUN python -m nltk.downloader averaged_perceptron_tagger
+CMD python CLAAS_public.py
