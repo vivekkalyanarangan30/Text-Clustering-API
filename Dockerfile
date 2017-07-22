@@ -1,4 +1,5 @@
 FROM continuumio/anaconda:4.4.0
+MAINTAINER Vivek Kalyanarangan <vivekkalyanarangan30@gmail.com>
 COPY python/ /usr/local/python/
 EXPOSE 8180
 WORKDIR /usr/local/python/
