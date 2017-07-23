@@ -8,10 +8,10 @@ Please check the below links for details -
 ## Docker Setup
 0. Install [Docker](https://docs.docker.com/engine/installation/)
 1. Run `git clone https://github.com/vivekkalyanarangan30/Text-Clustering-API`
-2. Run `cd Text-Clustering-API/`
-3. Open docker terminal and navigate to `/path/to/Text-Clustering-API`
-4. Run `docker build -t clustering-api .`
-5. Run `docker run -p 8180:8180 clustering-api
+2. Open docker terminal and navigate to `/path/to/Text-Clustering-API`
+3. Run `docker build -t clustering-api .`
+4. Run `docker run -p 8180:8180 clustering-api
+5. Access http://192.168.99.100:8180/apidocs/index.html brom your browser
 
 ## Native Setup
 1. Anaconda distribution of python 2.7
