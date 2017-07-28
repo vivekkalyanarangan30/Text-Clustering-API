@@ -10,7 +10,7 @@ Please check the below links for details -
 1. Run `git clone https://github.com/vivekkalyanarangan30/Text-Clustering-API`
 2. Open docker terminal and navigate to `/path/to/Text-Clustering-API`
 3. Run `docker build -t clustering-api .`
-4. Run `docker run -p 8180:8180 clustering-api
+4. Run `docker run -p 8180:8180 clustering-api`
 5. Access http://192.168.99.100:8180/apidocs/index.html brom your browser
 
 ## Native Setup
