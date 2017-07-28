@@ -11,7 +11,7 @@ Please check the below links for details -
 2. Open docker terminal and navigate to `/path/to/Text-Clustering-API`
 3. Run `docker build -t clustering-api .`
 4. Run `docker run -p 8180:8180 clustering-api`
-5. Access http://192.168.99.100:8180/apidocs/index.html brom your browser
+5. Access http://192.168.99.100:8180/apidocs/index.html from your browser [assuming you are on windows and docker-machine has that IP. Otherwise just use localhost]
 
 ## Native Setup
 1. Anaconda distribution of python 2.7
