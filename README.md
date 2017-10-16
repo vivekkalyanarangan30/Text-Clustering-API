@@ -3,7 +3,7 @@ Implementation of a text clustering algorithm using Kmeans clustering in order t
 Please check the below links for details - 
 
 + https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/
-+ https://machinelearningblogs.com/2017/01/26/text-clustering-get-quick-insights-from-unstructured-data/
++ https://machinelearningblogs.com/2017/06/23/text-clustering-get-quick-insights-unstructured-data-2/
 
 ## Docker Setup
 0. Install [Docker](https://docs.docker.com/engine/installation/)
