@@ -304,7 +304,7 @@ def index():
     unstructure = ''
     if 'col' in request.args:
         unstructure = request.args.get('col')
-        print unstructure
+        print(unstructure)
     no_of_clusters = 10
     if 'no_of_clusters' in request.args:
         no_of_clusters = int(request.args.get('no_of_clusters'))
