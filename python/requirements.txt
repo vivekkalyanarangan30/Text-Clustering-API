@@ -1,4 +1,7 @@
-flask
-flasgger==0.8.1
-httplib2
-stemming
+numpy~=1.26.3
+pandas~=2.2.0
+Flask~=3.0.1
+scikit-learn~=1.4.0
+stemming~=1.0.1
+XlsxWriter~=3.1.9
+mod-wsgi
